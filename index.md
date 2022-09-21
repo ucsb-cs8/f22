@@ -7,10 +7,12 @@ seo:
   name: UCSB CSW/CS 8 F22 course materials
 ---
 
+<!--
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
+-->
 
 ## Welcome to CMPSCW/CMPSC 8: Introduction to Computer Science at UCSB! 
 
@@ -23,7 +25,7 @@ Use links at the top of this page to access the main course resources (most were
 <!--[Jump to the current week]({{ site.url }}{{ site.baseurl }}/calendar#week-1){: .btn .btn-blue }-->
 -->
 
-This site is provided just as a convenience for quick access and searching: Gauchospace is the main hub for all course-related links.
+This site is provided just as a convenience for quick access and searching: **Gauchospace** is the main hub for all course-related links.
 
 <!--
 {% if site.announcements %}
