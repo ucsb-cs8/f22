@@ -55,18 +55,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  zyBooks_w8:
-    - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8MatniFall2022'
-  zyBooks_8:
-    - 'https://learn.zybooks.com/zybook/UCSBCMPSC8MatniFall2022'
-  Piazza_w8:
-    - 'https://piazza.com/ucsb/fall2022/csw8'
-  Piazza_8:
-    - 'https://piazza.com/ucsb/fall2022/181c8'
   Gauchospace:
     - 'https://gauchospace.ucsb.edu'
-  Gradescope:
-    - 'https://www.gradescope.com'
 aux_links_new_tab: true
 
 footer_content: 'Ziad Matni &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. With thanks to YKK'
